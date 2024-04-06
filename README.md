@@ -12,9 +12,11 @@ Numpy
 Requests
 Pillow
 
-## Installation : 
+## Installation
 Clone the repository to your local machine:
+```sh
 git clone https://github.com/yourusername/gender-detection-cnn.git
+
 
 Install the required dependencies:
 pip install -r requirements.txt
