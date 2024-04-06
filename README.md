@@ -18,8 +18,10 @@ Clone the repository to your local machine:
 git clone https://github.com/yourusername/gender-detection-cnn.git
 
 
-Install the required dependencies:
+## Install the required dependencies:
+```sh
 pip install -r requirements.txt
+
 
 ## Results
 Sample results obtained from the model can be found in the /results directory.
@@ -29,3 +31,4 @@ Contributions are welcome! Please feel free to open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+ 
