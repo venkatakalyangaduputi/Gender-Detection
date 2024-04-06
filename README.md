@@ -16,11 +16,14 @@ Pillow
 Clone the repository to your local machine:
 ```sh
 git clone https://github.com/yourusername/gender-detection-cnn.git
+<!-- Additional content below will not be included in the copy part -->
 
 
-## Install the required dependencies:
+ ## Install the required dependencies:
 ```sh
 pip install -r requirements.txt
+<!-- Additional content below will not be included in the copy part -->
+
 
 
 ## Results
